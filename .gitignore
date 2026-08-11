@@ -1,0 +1,10 @@
+# This repo is release-only — nothing here should ever be source code.
+# Ignore everything by default, then explicitly allow just the files
+# this repo is meant to hold.
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!*.png
+!*.ico
