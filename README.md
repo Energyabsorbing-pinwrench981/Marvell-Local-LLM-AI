@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="platform" src="https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square&logo=windows">
-  <img alt="version" src="https://img.shields.io/badge/version-1.7.0-2563eb?style=flat-square">
+  <img alt="version" src="https://img.shields.io/badge/version-1.7.1-2563eb?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square">
   <img alt="downloads" src="https://img.shields.io/github/downloads/VEN0MXDARK/Marvell-Local-LLM-AI/total?style=flat-square&color=16a34a">
 </p>
