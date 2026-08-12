@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="platform" src="https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square&logo=windows">
-  <img alt="version" src="https://img.shields.io/badge/version-1.7.1-2563eb?style=flat-square">
+  <img alt="version" src="https://img.shields.io/badge/version-1.8.0-2563eb?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square">
   <img alt="downloads" src="https://img.shields.io/github/downloads/VEN0MXDARK/Marvell-Local-LLM-AI/total?style=flat-square&color=16a34a">
 </p>
@@ -43,6 +43,10 @@ Marvell is an always-on assistant that lives in your system tray and understands
 | 👨‍💻 **Dev tools** | Code generation (with a dedicated coding model + copy-paste-ready code blocks), git helpers, a sandboxed scripting console. |
 | 🖱️ **Computer use** | Can look at your screen and carry out a task via mouse/keyboard, narrating each step with a hard step limit for safety. |
 | 🏠 **& more** | Smart home, shopping/price tracking, market prices, focus/Pomodoro mode with distraction-site blocking, and dozens more agents. |
+| 💰 **Finance** | Budgets, subscriptions, savings goals, invoices, loan/mortgage calculator, net worth, investment & crypto portfolio tracking. |
+| 🛡️ **Security & wellness** | Breach monitoring, screen-lock automation, secure file shredder, sleep/mood tracking, guided breathing exercises, document expiry reminders. |
+| 🎓 **Learning** | Language tutor with spaced-repetition quizzes, study plans, debate practice, daily trivia. |
+| 📊 **Dashboards** | Usage/cost analytics, model response-time benchmarking, wellness trend correlation. |
 
 ### Privacy controls
 
